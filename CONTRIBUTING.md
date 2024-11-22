@@ -12,7 +12,7 @@
 ## 1. Deprecation note
 
 This project is no longer maintained.  If you need a syntax checking plugin
-for [Vim][vim] you might be interested in Syntastic's spiritual succesor,
+for [Vim][vim] you might be interested in Syntastic's spiritual successor,
 [ALE][ale].  Although it shares no code with syntastic and it takes a very
 different approach to design, [ALE][ale] can be considered a natural evolution
 of syntastic in terms of goals and functionality.  Check it out, you probably
